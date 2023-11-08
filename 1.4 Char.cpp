@@ -6,5 +6,5 @@ int main(){
     char ch;
     cin>>ch;
     cout<<ch<<endl;
-    //it will print k
+    //it will print kkk
 }
